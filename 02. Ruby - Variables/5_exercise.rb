@@ -2,7 +2,7 @@ x = 0
 3.times do
   x += 1
 end
-puts x
+puts "x: #{x}"
 
 m = 0
 3.times do
@@ -13,6 +13,6 @@ puts n
 
 #Result
 =begin
-3
+x: 3
 NameError: undefined local variable or method `n' for main:Object
 =end
