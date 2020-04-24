@@ -1,1 +1,1 @@
-# RubyExample_TFW
+# Examples for Training framework Ruby
